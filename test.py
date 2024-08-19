@@ -7,9 +7,6 @@ import logging
 import nltk
 
 
-nltk.download('stopwords')
-nltk.download('wordnet')
-nltk.download('punkt')
 
 # Configure logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')

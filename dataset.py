@@ -8,10 +8,6 @@ from nltk.stem import PorterStemmer, WordNetLemmatizer
 import nltk
 
 
-nltk.download('stopwords')
-nltk.download('wordnet')
-nltk.download('punkt')
-
 
 STOPWORDS = set(stopwords.words('english'))
 stemmer = PorterStemmer()
