@@ -1,0 +1,5 @@
+{
+    "data_path": "data/spam_data.csv",
+    "model": "logistic_regression",
+    "save_model_path": "trained_model.pkl"
+}
