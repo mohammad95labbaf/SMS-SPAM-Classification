@@ -7,20 +7,6 @@
 
 This project uses machine learning to classify SMS messages as spam or not spam. The project includes data preprocessing, feature extraction, model training, and model evaluation.
 
-**Requirements**
----------------
-
-* Python 3.8+
-* scikit-learn
-* nltk
-* pandas
-* numpy
-* pickle
-* joblib
-* fastapi
-* uvicorn
-* flask
-* jinja2
 
 **Installation**
 ---------------
